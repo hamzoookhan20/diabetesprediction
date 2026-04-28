@@ -72,4 +72,4 @@ if st.button("Analyze Risk Level"):
 # --- FOOTER ---
 st.sidebar.info("Model: XGBoost Classifier\nAccuracy: High (SOTA Baseline)")
 st.sidebar.markdown("---")
-st.sidebar.write("Developed by: Muhammad Hamza Khan")
+st.sidebar.write("Developed by: Muhammad Hamza Khan and Umar Faruk Ibrahim")
